@@ -1,186 +1,186 @@
-2020-05-08 21:42:22,543  INFO [main] LoginTest:23 - Initializing Web Driver
-2020-05-08 21:42:29,262  INFO [main] LoginTest:31 - Getting url from Data.properties file
-2020-05-08 21:42:31,310  INFO [main] LoginTest:34 - going to login page
-2020-05-08 21:42:32,044  INFO [main] LoginTest:40 - Clicking on Log In button
-2020-05-08 21:42:32,292 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2020-05-08 21:42:32,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
-2020-05-08 21:42:32,307 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2020-05-08 21:42:32,635 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,636 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2020-05-08 21:42:32,636 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
-2020-05-08 21:42:32,636 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2020-05-08 21:42:32,639 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2020-05-08 21:42:32,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
-2020-05-08 21:42:32,641 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2020-05-08 21:42:32,650 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2020-05-08 21:42:32,652 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2020-05-08 21:42:32,652 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2020-05-08 21:42:32,660 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2020-05-08 21:42:32,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2020-05-08 21:42:32,663 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2020-05-08 21:42:32,675 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2020-05-08 21:42:32,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2020-05-08 21:42:32,677 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2020-05-08 21:42:32,693 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2020-05-08 21:42:32,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2020-05-08 21:42:32,695 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2020-05-08 21:42:32,700 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,700 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2020-05-08 21:42:32,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2020-05-08 21:42:32,701 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2020-05-08 21:42:32,705 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2020-05-08 21:42:32,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2020-05-08 21:42:32,706 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2020-05-08 21:42:32,709 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2020-05-08 21:42:32,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2020-05-08 21:42:32,711 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2020-05-08 21:42:32,724 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2020-05-08 21:42:32,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2020-05-08 21:42:32,725 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2020-05-08 21:42:32,731 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2020-05-08 21:42:32,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
-2020-05-08 21:42:32,732 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2020-05-08 21:42:32,739 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2020-05-08 21:42:32,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
-2020-05-08 21:42:32,741 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2020-05-08 21:42:32,744 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,744 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2020-05-08 21:42:32,745 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
-2020-05-08 21:42:32,745 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2020-05-08 21:42:32,748 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2020-05-08 21:42:32,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2020-05-08 21:42:32,750 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2020-05-08 21:42:32,754 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2020-05-08 21:42:32,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2020-05-08 21:42:32,756 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2020-05-08 21:42:32,763 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,764 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2020-05-08 21:42:32,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2020-05-08 21:42:32,765 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2020-05-08 21:42:32,772 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,773 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2020-05-08 21:42:32,773 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2020-05-08 21:42:32,773 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2020-05-08 21:42:32,776 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,777 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2020-05-08 21:42:32,779 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2020-05-08 21:42:32,779 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2020-05-08 21:42:32,783 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2020-05-08 21:42:32,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2020-05-08 21:42:32,785 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2020-05-08 21:42:32,788 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2020-05-08 21:42:32,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2020-05-08 21:42:32,790 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2020-05-08 21:42:32,792 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:32,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2020-05-08 21:42:32,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2020-05-08 21:42:32,794 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2020-05-08 21:42:33,410  INFO [main] LoginTest:23 - Initializing Web Driver
-2020-05-08 21:42:38,862  INFO [main] LoginTest:31 - Getting url from Data.properties file
-2020-05-08 21:42:41,667  INFO [main] LoginTest:34 - going to login page
-2020-05-08 21:42:42,048  INFO [main] LoginTest:40 - Clicking on Log In button
-2020-05-08 21:42:42,245 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,247 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2020-05-08 21:42:42,248 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
-2020-05-08 21:42:42,249 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2020-05-08 21:42:42,259 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,260 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2020-05-08 21:42:42,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
-2020-05-08 21:42:42,261 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2020-05-08 21:42:42,264 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,265 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2020-05-08 21:42:42,265 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
-2020-05-08 21:42:42,266 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2020-05-08 21:42:42,269 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,270 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2020-05-08 21:42:42,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2020-05-08 21:42:42,271 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2020-05-08 21:42:42,279 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2020-05-08 21:42:42,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2020-05-08 21:42:42,281 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2020-05-08 21:42:42,285 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2020-05-08 21:42:42,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2020-05-08 21:42:42,289 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2020-05-08 21:42:42,297 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
-2020-05-08 21:42:42,299 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,300 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2020-05-08 21:42:42,300 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2020-05-08 21:42:42,301 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2020-05-08 21:42:42,305 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,306 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2020-05-08 21:42:42,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2020-05-08 21:42:42,307 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2020-05-08 21:42:42,311 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2020-05-08 21:42:42,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2020-05-08 21:42:42,312 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2020-05-08 21:42:42,315 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,316 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2020-05-08 21:42:42,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2020-05-08 21:42:42,317 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2020-05-08 21:42:42,322 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,323 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2020-05-08 21:42:42,324 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2020-05-08 21:42:42,324 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2020-05-08 21:42:42,328 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,329 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2020-05-08 21:42:42,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
-2020-05-08 21:42:42,330 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2020-05-08 21:42:42,335 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,335 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2020-05-08 21:42:42,336 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
-2020-05-08 21:42:42,336 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2020-05-08 21:42:42,339 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,340 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2020-05-08 21:42:42,341 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
-2020-05-08 21:42:42,341 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2020-05-08 21:42:42,346 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,347 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2020-05-08 21:42:42,347 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2020-05-08 21:42:42,347 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2020-05-08 21:42:42,352 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2020-05-08 21:42:42,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2020-05-08 21:42:42,354 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2020-05-08 21:42:42,358 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2020-05-08 21:42:42,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2020-05-08 21:42:42,361 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2020-05-08 21:42:42,369 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
-2020-05-08 21:42:42,370 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2020-05-08 21:42:42,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2020-05-08 21:42:42,373 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2020-05-08 21:42:42,378 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2020-05-08 21:42:42,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2020-05-08 21:42:42,380 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2020-05-08 21:42:42,384 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2020-05-08 21:42:42,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2020-05-08 21:42:42,385 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2020-05-08 21:42:42,390 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2020-05-08 21:42:42,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2020-05-08 21:42:42,392 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2020-05-08 21:42:42,396 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2020-05-08 21:42:42,397 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2020-05-08 21:42:42,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2020-05-08 21:42:42,398 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-05-11 00:49:22,940  INFO [main] LoginTest:23 - Initializing Web Driver
+2020-05-11 00:49:31,227  INFO [main] LoginTest:31 - Getting url from Data.properties file
+2020-05-11 00:49:32,917  INFO [main] LoginTest:34 - going to login page
+2020-05-11 00:49:33,512  INFO [main] LoginTest:40 - Clicking on Log In button
+2020-05-11 00:49:33,647 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:33,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-05-11 00:49:33,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-05-11 00:49:33,652 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-05-11 00:49:33,954 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:33,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-05-11 00:49:33,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-05-11 00:49:33,957 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-05-11 00:49:33,962 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:33,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-05-11 00:49:33,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-05-11 00:49:33,964 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-05-11 00:49:33,982 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:33,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-05-11 00:49:33,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-05-11 00:49:33,984 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-05-11 00:49:33,999 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:33,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-05-11 00:49:33,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-05-11 00:49:33,999 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-05-11 00:49:34,024 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-05-11 00:49:34,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-05-11 00:49:34,026 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-05-11 00:49:34,057 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,058 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-05-11 00:49:34,059 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-05-11 00:49:34,060 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-05-11 00:49:34,064 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-05-11 00:49:34,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-05-11 00:49:34,064 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-05-11 00:49:34,070 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-05-11 00:49:34,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-05-11 00:49:34,076 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-05-11 00:49:34,082 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-05-11 00:49:34,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-05-11 00:49:34,084 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-05-11 00:49:34,098 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-05-11 00:49:34,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-05-11 00:49:34,103 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-05-11 00:49:34,111 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-05-11 00:49:34,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-05-11 00:49:34,112 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-05-11 00:49:34,120 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-05-11 00:49:34,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-05-11 00:49:34,125 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-05-11 00:49:34,126 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-05-11 00:49:34,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-05-11 00:49:34,131 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-05-11 00:49:34,135 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-05-11 00:49:34,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-05-11 00:49:34,135 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-05-11 00:49:34,147 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,148 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-05-11 00:49:34,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-05-11 00:49:34,149 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-05-11 00:49:34,154 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-05-11 00:49:34,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-05-11 00:49:34,157 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-05-11 00:49:34,166 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-05-11 00:49:34,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-05-11 00:49:34,168 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-05-11 00:49:34,178 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-05-11 00:49:34,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-05-11 00:49:34,186 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-05-11 00:49:34,191 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-05-11 00:49:34,193 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-05-11 00:49:34,193 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-05-11 00:49:34,197 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-05-11 00:49:34,199 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-05-11 00:49:34,199 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-05-11 00:49:34,205 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:34,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-05-11 00:49:34,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-05-11 00:49:34,206 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-05-11 00:49:34,881  INFO [main] LoginTest:23 - Initializing Web Driver
+2020-05-11 00:49:40,309  INFO [main] LoginTest:31 - Getting url from Data.properties file
+2020-05-11 00:49:42,480  INFO [main] LoginTest:34 - going to login page
+2020-05-11 00:49:42,839  INFO [main] LoginTest:40 - Clicking on Log In button
+2020-05-11 00:49:42,983 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:42,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-05-11 00:49:42,985 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-05-11 00:49:42,985 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-05-11 00:49:42,992 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:42,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-05-11 00:49:42,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-05-11 00:49:42,993 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-05-11 00:49:42,997 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:42,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-05-11 00:49:42,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-05-11 00:49:42,998 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-05-11 00:49:43,003 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,004 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-05-11 00:49:43,004 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-05-11 00:49:43,004 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-05-11 00:49:43,011 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,012 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-05-11 00:49:43,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-05-11 00:49:43,013 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-05-11 00:49:43,019 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-05-11 00:49:43,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-05-11 00:49:43,021 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-05-11 00:49:43,029 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-05-11 00:49:43,032 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-05-11 00:49:43,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-05-11 00:49:43,035 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-05-11 00:49:43,038 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-05-11 00:49:43,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-05-11 00:49:43,040 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-05-11 00:49:43,045 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-05-11 00:49:43,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-05-11 00:49:43,047 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-05-11 00:49:43,051 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-05-11 00:49:43,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-05-11 00:49:43,055 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-05-11 00:49:43,063 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-05-11 00:49:43,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-05-11 00:49:43,064 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-05-11 00:49:43,072 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-05-11 00:49:43,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-05-11 00:49:43,073 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-05-11 00:49:43,085 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,087 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-05-11 00:49:43,087 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-05-11 00:49:43,088 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-05-11 00:49:43,089 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-05-11 00:49:43,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-05-11 00:49:43,092 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-05-11 00:49:43,097 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-05-11 00:49:43,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-05-11 00:49:43,099 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-05-11 00:49:43,108 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-05-11 00:49:43,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-05-11 00:49:43,109 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-05-11 00:49:43,118 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-05-11 00:49:43,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-05-11 00:49:43,120 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-05-11 00:49:43,127 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-05-11 00:49:43,127 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-05-11 00:49:43,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-05-11 00:49:43,127 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-05-11 00:49:43,134 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-05-11 00:49:43,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-05-11 00:49:43,136 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-05-11 00:49:43,138 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-05-11 00:49:43,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-05-11 00:49:43,138 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-05-11 00:49:43,141 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-05-11 00:49:43,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-05-11 00:49:43,141 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-05-11 00:49:43,146 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-05-11 00:49:43,147 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-05-11 00:49:43,148 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-05-11 00:49:43,148 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/johar/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

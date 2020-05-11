@@ -27,7 +27,7 @@ public class BasePage {
     public WebDriver initializeDriver() throws IOException {
 
         properties = new Properties();
-        FileInputStream fis = new FileInputStream("C:\\Users\\johar\\IdeaProjects\\GradleProject\\src\\main\\java\\com\\java\\pages\\Data.properties");
+        FileInputStream fis = new FileInputStream("C:\\Users\\johar\\IdeaProjects\\GradleProject\\src\\main\\resources\\Data.properties");
         properties.load(fis);
         String browserName = properties.getProperty("browser");
 
