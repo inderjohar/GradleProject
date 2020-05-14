@@ -4,6 +4,7 @@ import com.aventstack.extentreports.Status;
 import com.java.pages.BasePage;
 import com.java.util.ExtentTestManager;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.DataProvider;
@@ -39,9 +40,17 @@ public class LoginTest extends BasePage {
         loginPage.getPassword().sendKeys(Password);
         log.info("Clicking on Log In button");
         loginPage.getLogin().click();
-//		Assert.assertTrue(loginPage.getNavigationLabel().isDisplayed());
+		Assert.assertTrue(loginPage.getNavigationLabel().isDisplayed());
     }
 
+    @Test(enabled=false)
+    public void getTitle()
+    {
+        ExtentTestManager.getTest().log(Status.INFO, "Running test 2");
+        log.info("Getting url from Data.properties file");
+        driver.navigate().to(properties.getProperty("url"));
+        driver.getTitle();
+    }
     @DataProvider
     public Object[][] sendData()
     {

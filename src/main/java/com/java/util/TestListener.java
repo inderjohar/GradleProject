@@ -2,9 +2,12 @@ package com.java.util;
 
 import com.java.pages.BasePage;
 import java.io.IOException;
+import java.util.Set;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.ITestContext;
 import org.testng.ITestListener;
+import org.testng.ITestNGMethod;
 import org.testng.ITestResult;
 
 import com.aventstack.extentreports.MediaEntityBuilder;
@@ -60,8 +63,6 @@ public class TestListener extends BasePage implements ITestListener {
         ExtentManager.getInstance().flush();
     }
 
-
-
     @Override
     public void onTestSkipped(ITestResult result) {
         System.out.println("*** Test " + result.getMethod().getMethodName() + " skipped...");
@@ -71,5 +72,25 @@ public class TestListener extends BasePage implements ITestListener {
     @Override
     public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
         System.out.println("*** Test failed but within percentage % " + result.getMethod().getMethodName());
+    }
+
+    @Override
+    public void onFinish(ITestContext context) {
+        Set<ITestResult> skippedTests = context.getSkippedTests().getAllResults();
+        for(ITestResult temp : skippedTests)
+        {
+            ITestNGMethod method = temp.getMethod();
+            if(context.getSkippedTests().getResults(method).size() > 1)
+            {
+                skippedTests.remove(temp);
+            }
+            else
+            {
+                if(context.getSkippedTests().getResults(method).size() > 0)
+                {
+                    skippedTests.remove(temp);
+                }
+            }
+        }
     }
 }
